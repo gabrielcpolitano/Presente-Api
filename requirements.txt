@@ -1,5 +1,0 @@
-flask
-mercadopago
-python-dotenv
-flask-cors
-gunicorn
